@@ -1,0 +1,497 @@
+# depslib dependency file v1.0
+1686413577 source:c:\users\admin\desktop\proyectodados\main.cpp
+	<iostream>
+	"rlutil.h"
+	"dados.h"
+	<time.h>
+	<cstdlib>
+	<stdlib.h>
+	"menu.h"
+
+1686408172 source:c:\users\admin\desktop\proyectodados\dados.cpp
+	<iostream>
+	"rlutil.h"
+	"dados.h"
+
+1686357982 c:\users\admin\desktop\proyectodados\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1686408172 c:\users\admin\desktop\proyectodados\dados.h
+
+1686409437 c:\users\admin\desktop\proyectodados\menu.h
+
+1686414028 source:c:\users\admin\desktop\proyectodados\menu.cpp
+	<iostream>
+	"rlutil.h"
+	"menu.h"
+	"modounjugador.h"
+	"reglas.h"
+
+1686413805 c:\users\admin\desktop\proyectodados\modounjugador.h
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	<stdlib.h>
+	<time.h>
+	"dados.h"
+
+1686414167 c:\users\admin\desktop\proyectodados\reglas.h
+	<iostream>
+	<cstdlib>
+	"segmentarreglas.h"
+
+1686414167 c:\users\admin\desktop\proyectodados\segmentarreglas.h
+	<iostream>
+	<cstdlib>
+
+1686632546 source:c:\users\user\desktop\proyectodados\dados.cpp
+	<iostream>
+	"rlutil.h"
+	"dados.h"
+
+1686632547 c:\users\user\desktop\proyectodados\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1686632546 c:\users\user\desktop\proyectodados\dados.h
+
+1686632546 source:c:\users\user\desktop\proyectodados\main.cpp
+	<iostream>
+	"rlutil.h"
+	"dados.h"
+	<time.h>
+	<cstdlib>
+	<stdlib.h>
+	"menu.h"
+
+1686632547 c:\users\user\desktop\proyectodados\menu.h
+
+1686632547 source:c:\users\user\desktop\proyectodados\menu.cpp
+	<iostream>
+	"rlutil.h"
+	"menu.h"
+	"modounjugador.h"
+	"reglas.h"
+
+1686633555 c:\users\user\desktop\proyectodados\modounjugador.h
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	<stdlib.h>
+	<time.h>
+	"dados.h"
+
+1686632692 c:\users\user\desktop\proyectodados\reglas.h
+	<iostream>
+	<cstdlib>
+	"segmentarreglas.h"
+
+1686632547 c:\users\user\desktop\proyectodados\segmentarreglas.h
+	<iostream>
+	<cstdlib>
+
+1686632546 source:c:\users\user\desktop\proyectodados2\dados.cpp
+	<iostream>
+	"rlutil.h"
+	"dados.h"
+
+1686632547 c:\users\user\desktop\proyectodados2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1686632546 c:\users\user\desktop\proyectodados2\dados.h
+
+1686632546 source:c:\users\user\desktop\proyectodados2\main.cpp
+	<iostream>
+	"rlutil.h"
+	"dados.h"
+	<time.h>
+	<cstdlib>
+	<stdlib.h>
+	"menu.h"
+
+1686632547 c:\users\user\desktop\proyectodados2\menu.h
+
+1686773770 source:c:\users\user\desktop\proyectodados2\menu.cpp
+	<iostream>
+	"rlutil.h"
+	"menu.h"
+	"modounjugador.h"
+	"mododosjugadores.h"
+	"reglas.h"
+
+1686775107 c:\users\user\desktop\proyectodados2\modounjugador.h
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	<stdlib.h>
+	<time.h>
+	"dados.h"
+
+1686637675 c:\users\user\desktop\proyectodados2\reglas.h
+	<iostream>
+	<cstdlib>
+	"segmentarreglas.h"
+
+1686637405 c:\users\user\desktop\proyectodados2\segmentarreglas.h
+	<iostream>
+	<cstdlib>
+
+1686775200 c:\users\user\desktop\proyectodados2\mododosjugadores.h
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	<stdlib.h>
+	<time.h>
+	"dados.h"
+
+1686779020 source:c:\users\admin\desktop\proyectodados3\dados.cpp
+	<iostream>
+	"rlutil.h"
+	"dados.h"
+
+1686779020 c:\users\admin\desktop\proyectodados3\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1686779020 c:\users\admin\desktop\proyectodados3\dados.h
+
+1686779020 source:c:\users\admin\desktop\proyectodados3\main.cpp
+	<iostream>
+	"rlutil.h"
+	"dados.h"
+	<time.h>
+	<cstdlib>
+	<stdlib.h>
+	"menu.h"
+
+1686779020 c:\users\admin\desktop\proyectodados3\menu.h
+
+1686779020 source:c:\users\admin\desktop\proyectodados3\menu.cpp
+	<iostream>
+	"rlutil.h"
+	"menu.h"
+	"modounjugador.h"
+	"mododosjugadores.h"
+	"reglas.h"
+
+1686781072 c:\users\admin\desktop\proyectodados3\modounjugador.h
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	<stdlib.h>
+	<time.h>
+	"dados.h"
+
+1686781072 c:\users\admin\desktop\proyectodados3\mododosjugadores.h
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	<stdlib.h>
+	<time.h>
+	"dados.h"
+
+1686779020 c:\users\admin\desktop\proyectodados3\reglas.h
+	<iostream>
+	<cstdlib>
+	"segmentarreglas.h"
+
+1686779020 c:\users\admin\desktop\proyectodados3\segmentarreglas.h
+	<iostream>
+	<cstdlib>
+
+1686786744 source:c:\users\user\desktop\proyectodados3\dados.cpp
+	<iostream>
+	"rlutil.h"
+	"dados.h"
+
+1686786744 c:\users\user\desktop\proyectodados3\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1686786744 c:\users\user\desktop\proyectodados3\dados.h
+
+1686793662 source:c:\users\user\desktop\proyectodados3\main.cpp
+	<iostream>
+	"rlutil.h"
+	"dados.h"
+	<time.h>
+	<cstdlib>
+	<stdlib.h>
+	"menu.h"
+
+1686786744 c:\users\user\desktop\proyectodados3\menu.h
+
+1686793699 source:c:\users\user\desktop\proyectodados3\menu.cpp
+	<iostream>
+	"rlutil.h"
+	"menu.h"
+	"modounjugador.h"
+	"mododosjugadores.h"
+	"reglas.h"
+
+1686794937 c:\users\user\desktop\proyectodados3\modounjugador.h
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	<stdlib.h>
+	<time.h>
+	"dados.h"
+
+1686795436 c:\users\user\desktop\proyectodados3\mododosjugadores.h
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	<stdlib.h>
+	<time.h>
+	"dados.h"
+
+1686796199 c:\users\user\desktop\proyectodados3\reglas.h
+	<iostream>
+	<cstdlib>
+
+1686787411 c:\users\user\desktop\proyectodados3\segmentarreglas.h
+	<iostream>
+	<cstdlib>
+
+1686786744 source:c:\users\user\desktop\proyectodados5\dados.cpp
+	<iostream>
+	"rlutil.h"
+	"dados.h"
+
+1686786744 c:\users\user\desktop\proyectodados5\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1686786744 c:\users\user\desktop\proyectodados5\dados.h
+
+1686793662 source:c:\users\user\desktop\proyectodados5\main.cpp
+	<iostream>
+	"rlutil.h"
+	"dados.h"
+	<time.h>
+	<cstdlib>
+	<stdlib.h>
+	"menu.h"
+
+1686786744 c:\users\user\desktop\proyectodados5\menu.h
+
+1686793699 source:c:\users\user\desktop\proyectodados5\menu.cpp
+	<iostream>
+	"rlutil.h"
+	"menu.h"
+	"modounjugador.h"
+	"mododosjugadores.h"
+	"reglas.h"
+
+1686797965 c:\users\user\desktop\proyectodados5\modounjugador.h
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	<stdlib.h>
+	<time.h>
+	"dados.h"
+
+1686798054 c:\users\user\desktop\proyectodados5\mododosjugadores.h
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	<stdlib.h>
+	<time.h>
+	"dados.h"
+
+1686796199 c:\users\user\desktop\proyectodados5\reglas.h
+	<iostream>
+	<cstdlib>
+
+1686856029 source:c:\users\admin\desktop\proyectodados5\dados.cpp
+	<iostream>
+	"rlutil.h"
+	"dados.h"
+
+1686828493 c:\users\admin\desktop\proyectodados5\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1686828493 c:\users\admin\desktop\proyectodados5\dados.h
+
+1686885728 source:c:\users\admin\desktop\proyectodados5\main.cpp
+	<iostream>
+	"rlutil.h"
+	"dados.h"
+	<time.h>
+	<cstdlib>
+	<stdlib.h>
+	"menu.h"
+
+1686828493 c:\users\admin\desktop\proyectodados5\menu.h
+
+1686885827 source:c:\users\admin\desktop\proyectodados5\menu.cpp
+	<iostream>
+	"rlutil.h"
+	"menu.h"
+	"modounjugador.h"
+	"mododosjugadores.h"
+	"reglas.h"
+	"mayorPuntuacion.h"
+
+1686883945 c:\users\admin\desktop\proyectodados5\modounjugador.h
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	<stdlib.h>
+	<time.h>
+	"dados.h"
+
+1686884025 c:\users\admin\desktop\proyectodados5\mododosjugadores.h
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	<stdlib.h>
+	<time.h>
+	"dados.h"
+
+1686885516 c:\users\admin\desktop\proyectodados5\reglas.h
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+
+1686870963 c:\users\admin\desktop\proyectodados5\mayorpuntuacion.h
+	"modounjugador.h"
+
+1686856029 source:c:\users\admin\desktop\escalera_game\dados.cpp
+	<iostream>
+	"rlutil.h"
+	"dados.h"
+
+1686828493 c:\users\admin\desktop\escalera_game\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1686828493 c:\users\admin\desktop\escalera_game\dados.h
+
+1686885728 source:c:\users\admin\desktop\escalera_game\main.cpp
+	<iostream>
+	"rlutil.h"
+	"dados.h"
+	<time.h>
+	<cstdlib>
+	<stdlib.h>
+	"menu.h"
+
+1686828493 c:\users\admin\desktop\escalera_game\menu.h
+
+1686885827 source:c:\users\admin\desktop\escalera_game\menu.cpp
+	<iostream>
+	"rlutil.h"
+	"menu.h"
+	"modounjugador.h"
+	"mododosjugadores.h"
+	"reglas.h"
+	"mayorPuntuacion.h"
+
+1686883945 c:\users\admin\desktop\escalera_game\modounjugador.h
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	<stdlib.h>
+	<time.h>
+	"dados.h"
+
+1686884025 c:\users\admin\desktop\escalera_game\mododosjugadores.h
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+	<stdlib.h>
+	<time.h>
+	"dados.h"
+
+1686885516 c:\users\admin\desktop\escalera_game\reglas.h
+	<iostream>
+	<cstdlib>
+	"rlutil.h"
+
+1686870963 c:\users\admin\desktop\escalera_game\mayorpuntuacion.h
+	"modounjugador.h"
+
